@@ -1,0 +1,167 @@
+h3 {color: white;
+    padding: 10px 0px 10px 20px;
+    margin-top: 0px;
+
+}
+
+body {margin: 0px;}
+
+.db {background-color: #336699;
+     height: 48px;
+     width: 623px;
+
+}
+
+.be {background-color:  #1a8cff;
+     height: 318px;
+     width: 623px;
+
+   }
+
+.db2 {background-color: #336699;
+      height: 47px;
+      width: 623px;
+      margin-top: 41px;
+      }
+
+.h {background-color:  #1a8cff;
+       width:594px;
+       height:135px;
+       margin: 34px 0px 0px 15px;
+
+
+}
+.e {background-color:  #1a8cff;
+       width:594px;
+       height:135px;
+       margin: 34px 0px 0px 15px;
+
+
+}
+.r {background-color:  #1a8cff;
+       width:594px;
+       height:135px;
+       margin: 34px 0px 0px 15px;
+
+
+
+}
+.e {background-color:  #1a8cff;
+       width: 594px;
+       height: 135px;
+       margin: 34px 0px 34px 15px;
+
+
+}
+
+.db3 { width: 569px;
+       height: 377px;
+       background-color: gray;
+       border-top: 27px solid #336699;
+       border-right: 26px solid #336699;;
+       border-bottom: 27px solid #336699;;
+       border-left: 26px solid #336699;
+       margin-bottom: 40px;
+
+}
+
+.db4 { width: 621px;
+       height: 44px;
+       background-color: #336699;
+       margin-bottom: 48px;}
+
+.gy { height: 278px;
+      width: 570px;
+      background-color: gray;
+      margin-left: 28px;
+      margin-bottom: 45px;}
+
+.db5 {width: 570px;
+      height: 21px;
+      margin-bottom: 35px;
+      margin-left: 28px;
+      background-color: #336699;}
+
+.gy2  {width: 570px;
+       height: 111px;
+       background-color: gray;
+       margin-left: 28px;
+       margin-bottom: 37px;}
+.db6 {width: 570px;
+      height:20px;
+      background-color: #336699;
+      margin-left: 28px;
+      margin-bottom: 37px;
+
+}
+
+.gy3 {width: 570px;
+      height: 111px;
+      background-color: gray;
+      margin-left: 28px;
+      margin-bottom: 40px;
+
+}
+
+.final { width: 595px;
+         height: 44px;
+         background-color: gray;
+         border: 13px solid black;}
+
+
+/*starts red blacks*/
+
+
+.dr {height: 52px;
+     width: 623px;
+     background-color: darkred;
+     }
+.2 { padding-top: 10px;}
+
+.red {height: 385px;
+      width: 623px;
+      background-color: red;}
+
+.dr2 { height: 225px;
+       width: 606px;
+       background-color: darkred;
+       margin: 64px 10px 32px 10px;}
+
+ .dr3 { height: 225px;
+        width: 606px;
+        background-color: darkred;
+        margin: 64px 10px 32px 10px;}
+
+.dr4 { height: 225px;
+       width: 606px;
+       background-color: darkred;
+       margin: 64px 10px 32px 10px;}
+
+.dr5 { height: 225px;
+       width: 606px;
+       background-color: darkred;
+       margin: 64px 10px 32px 10px;}
+
+.drt { height: 917px;
+       width: 624px;
+       background-color:   #330000;
+
+     }
+
+
+.pink {background-color: pink;
+       margin: 0px 0px 0px 0px;
+       width: 560px;
+      height: 412px;
+      border-top: 140px solid red;
+      border-right: 32px solid red;
+      border-bottom: 70px solid red;
+      border-left: 32px solid red;
+      }
+
+.drts {background-color:   #330000;
+       height: 204px;
+       width: 624px;
+
+
+}
